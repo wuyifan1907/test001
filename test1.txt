@@ -5,3 +5,6 @@ fatal: 响应状态代码不指示成功: 401 (Unauthorized)。
 remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
 remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
 fatal: Authentication failed for 'https://github.com/wuyifan1907/test002.git/'
+
+
+现在是半夜，我还在写报告，好累啊
